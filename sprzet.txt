@@ -1,0 +1,30 @@
+1,Rower,30
+2,Wiertarka,10
+3,Namiot,15
+4,Lyzwy,20
+5,Deska snowboardowa,40
+6,Narty,35
+7,Kask narciarski,12
+8,Lornetka,8
+9,Rowerek biegowy,15
+10,Kajak,50
+11,Wedka,25
+12,Kij golfowy,20
+13,Buty wspinaczkowe,18
+14,Kurtka narciarska,22
+15,Rakieta tenisowa,17
+16,Kask rowerowy,10
+17,Okulary przeciwsloneczne,5
+18,Laptop,45
+19,Projektor,55
+20,Aparat fotograficzny,60
+21,Obuwie biegowe,14
+22,Czajnik turystyczny,6
+23,Materac wojskowy,9
+24,Lampa biwakowa,7
+25,Zestaw bushcraftowy,13
+26,Plecak górski,20
+27,Gogle narciarskie,16
+28,Kamera sportowa,30
+29,Latarka czolowa,8
+30,Komplet garnkow turystycznych,15
