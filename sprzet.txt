@@ -23,8 +23,8 @@
 23,Materac wojskowy,9
 24,Lampa biwakowa,7
 25,Zestaw bushcraftowy,13
-26,Plecak górski,20
+26,Plecak gorski,20
 27,Gogle narciarskie,16
 28,Kamera sportowa,30
 29,Latarka czolowa,8
-30,Komplet garnkow turystycznych,15
+30,Komplet garnkow turystycznych,24
